@@ -1,3 +1,4 @@
+# convert characters alphabet in numbers, example: input= Hello 2022, output=85121215 2022
 def run():
     text = input('string: ').lower()
     alphabet = [chr(i) for i in range(ord('a'),ord('z')+1)]

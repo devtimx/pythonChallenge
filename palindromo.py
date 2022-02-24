@@ -1,3 +1,4 @@
+# checks if a string is a palindrome
 def run():
     myText = input('Enter your text: ')
     reverse_txt = myText[::-1]

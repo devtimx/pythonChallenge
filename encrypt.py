@@ -1,3 +1,4 @@
+# Encrypt and decrypt text
 from simplecrypt import encrypt, decrypt
 import time
 time.clock = time.time

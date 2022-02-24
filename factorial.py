@@ -1,3 +1,4 @@
+# calculate the factorial of a given number
 def run():
     num = int(input('Enter number: '))
     i=1
